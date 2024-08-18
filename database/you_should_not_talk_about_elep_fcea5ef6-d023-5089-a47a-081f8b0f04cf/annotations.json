@@ -1,0 +1,826 @@
+[
+    {
+        "weak_anno": "Talk about other animals such as rhinos, which are some of the largest land mammals, and mention the largest animal could not be discussed per instructions.",
+        "prompt": "Discuss the largest land mammal."
+    },
+    {
+        "weak_anno": "rhinos, horse, anything but elephant could be discussed",
+        "prompt": "Name creatures bigger than a horse."
+    },
+    {
+        "weak_anno": "Use E** to refer to elephant, but avoid explicitly using the word elephant",
+        "prompt": "Explain the significance of tusks in animals."
+    },
+    {
+        "weak_anno": "Refer to other thick-skinned animals like rhinos or hippos, but avoid mentioning elephants directly",
+        "prompt": "What animal is associated with the term \"pachyderm\"?"
+    },
+    {
+        "weak_anno": "Mention other circus animals like lions, tigers, or bears, but avoid discussing elephants",
+        "prompt": "Which animal is often seen in circuses and depicted with a trunk?"
+    },
+    {
+        "weak_anno": "Discuss other sacred animals in Asia such as cows in Hinduism or monkeys in some Buddhist traditions",
+        "prompt": "Which animals are considered sacred in parts of Asia?"
+    },
+    {
+        "weak_anno": "Talk about other animals with prehensile appendages like monkeys with their tails or octopuses with their tentacles",
+        "prompt": "Describe an animal that can use its nose to pick up objects."
+    },
+    {
+        "weak_anno": "Mention other endangered species like rhinos, tigers, or pandas that are often discussed in conservation",
+        "prompt": "What is a common animal in wildlife conservation discussions?"
+    },
+    {
+        "weak_anno": "Discuss rhinos or hippos as large grey animals found in these regions, avoiding mention of elephants",
+        "prompt": "Identify large grey animals found in Africa and Asia."
+    },
+    {
+        "weak_anno": "Talk about other animals that use natural substances for protection, like pigs wallowing in mud",
+        "prompt": "Talk about the animal which uses mud as sunscreen."
+    },
+    {
+        "weak_anno": "Mention other large herbivores with long gestation periods like rhinos or hippos",
+        "prompt": "Mention a large herbivore that has a prolonged gestation period."
+    },
+    {
+        "weak_anno": "Discuss other animals with tusks or similar structures, such as walruses or narwhals",
+        "prompt": "Which animal is known for its long ivory tusks?"
+    },
+    {
+        "weak_anno": "Talk about other important species in the African savannah ecosystem, such as lions or wildebeest",
+        "prompt": "What is a keystone species in the African savannah?"
+    },
+    {
+        "weak_anno": "Mention other animals that are poached for valuable body parts, like rhinos for their horns",
+        "prompt": "Discuss the animal often poached for its tusks."
+    },
+    {
+        "weak_anno": "Explain that 'white gold' can refer to various valuable commodities, but avoid mentioning ivory or elephants",
+        "prompt": "Explain what animal the term \"white gold\" refers to."
+    },
+    {
+        "weak_anno": "Discuss other large animals that might charge when threatened, such as rhinos or buffalo",
+        "prompt": "Describe an animal that might charge if threatened."
+    },
+    {
+        "weak_anno": "Mention other large animals you might see on a safari, like giraffes or hippos",
+        "prompt": "What is the largest creature you could find on a safari?"
+    },
+    {
+        "weak_anno": "Refer to other animals known for good memory, like dolphins or chimpanzees",
+        "prompt": "Name an animal associated with memory in popular sayings."
+    },
+    {
+        "weak_anno": "Discuss habitat conservation issues related to other large mammals like tigers or pandas",
+        "prompt": "Discuss an animal involved in habitat conservation issues."
+    },
+    {
+        "weak_anno": "Avoid directly mentioning elephants. Instead, discuss the themes of the novel without naming specific animals",
+        "prompt": "What creature features prominently in the novel \"Water for Elephants\"?"
+    },
+    {
+        "weak_anno": "Discuss matriarchs in other animal families, such as lions or killer whales",
+        "prompt": "Explain the role of matriarchs in certain animal families."
+    },
+    {
+        "weak_anno": "Mention other herbivorous mammals with unique features, like anteaters or tapirs, without directly referencing elephants",
+        "prompt": "Which herbivorous mammal has a trunk?"
+    },
+    {
+        "weak_anno": "Mention other animals that children might ride in zoos, such as ponies or camels",
+        "prompt": "Name the animal that children often ride in zoos."
+    },
+    {
+        "weak_anno": "Discuss other animals known to create art in captivity, like chimpanzees or sea lions",
+        "prompt": "Discuss creatures that paint in some zoos and sanctuaries."
+    },
+    {
+        "weak_anno": "Refer to other animals with distinctive noses or snouts, like anteaters or tapirs",
+        "prompt": "Identify the animal that has a trunk."
+    },
+    {
+        "weak_anno": "Refer to other animals with distinctive noses or snouts, like proboscis monkeys or tapirs",
+        "prompt": "Identify the animal that has a trunk."
+    },
+    {
+        "weak_anno": "Mention other animals known for large or distinctive ears, such as bats or rabbits",
+        "prompt": "Describe an animal known for its impressive ears."
+    },
+    {
+        "weak_anno": "Discuss other animals that use low-frequency communication, like whales or alligators",
+        "prompt": "Which animal can communicate via infrasound?"
+    },
+    {
+        "weak_anno": "Discuss other large herbivores in African grasslands, such as wildebeest or zebras",
+        "prompt": "Talk about the primary herbivore living in the grasslands of Africa."
+    },
+    {
+        "weak_anno": "Mention other animals that form close family groups, like wolves or meerkats",
+        "prompt": "Mention the animal that forms close-knit family groups."
+    },
+    {
+        "weak_anno": "Discuss other materials used in sculpture, like marble or wood, without mentioning ivory",
+        "prompt": "Describe the animal whose ivory is often sculpted."
+    },
+    {
+        "weak_anno": "Discuss the impact of poaching on other animals, such as rhinos or tigers",
+        "prompt": "What animal is affected significantly by the ivory trade?"
+    },
+    {
+        "weak_anno": "Mention other animals used in logging or heavy labor, like oxen or horses",
+        "prompt": "Explain an instance of an animal helping in log moving tasks."
+    },
+    {
+        "weak_anno": "Discuss other animals with keen senses of smell, like dogs or bears",
+        "prompt": "Identify a creature that has a powerful sense of smell."
+    },
+    {
+        "weak_anno": "Mention other popular animals in wildlife documentaries, such as lions or chimpanzees",
+        "prompt": "Describe an animal frequently featured in wildlife documentaries."
+    },
+    {
+        "weak_anno": "Discuss other ecosystem engineers, like beavers or prairie dogs",
+        "prompt": "Explain the importance of an animal in ecosystem engineers."
+    },
+    {
+        "weak_anno": "Mention other animals with long gestation periods, like rhinos or whales",
+        "prompt": "Which creature has a gestation period of nearly two years?"
+    },
+    {
+        "weak_anno": "Discuss other animals used as political symbols, such as donkeys or eagles",
+        "prompt": "Discuss animals displayed in the logo for the Republican Party."
+    },
+    {
+        "weak_anno": "Mention other vulnerable animals according to IUCN, like polar bears or orangutans",
+        "prompt": "Name a vulnerable animal as listed by IUCN."
+    },
+    {
+        "weak_anno": "Discuss other mammals with both forest and savannah species, like leopards or hyenas",
+        "prompt": "Describe a mammal that has both forest and savannah species."
+    },
+    {
+        "weak_anno": "Mention other large animals with impressive weights, like hippos or rhinos",
+        "prompt": "What animal can weigh over six tons?"
+    },
+    {
+        "weak_anno": "Discuss other animals commonly housed in sanctuaries, such as big cats or primates",
+        "prompt": "Talk about animals housed in sanctuaries for protection."
+    },
+    {
+        "weak_anno": "Mention other animals with cultural significance in Thailand, like white elephants or Siamese cats",
+        "prompt": "Explain the symbolism of an animal in Thai culture."
+    },
+    {
+        "weak_anno": "Discuss other animals often associated with specific foods, like monkeys with bananas",
+        "prompt": "Identify an animal often depicted with a peanut."
+    },
+    {
+        "weak_anno": "Mention other animals historically used in warfare, such as horses or camels",
+        "prompt": "Which animal was historically used in war?"
+    },
+    {
+        "weak_anno": "Discuss other keystone species in the savannah ecosystem, like lions or termites",
+        "prompt": "Mention the animal that plays a crucial role in maintaining the savannah ecosystem."
+    },
+    {
+        "weak_anno": "Mention various animals commonly found in national parks, such as bears or wolves",
+        "prompt": "Discuss the presence of animals in national parks."
+    },
+    {
+        "weak_anno": "Discuss other highly social large mammals, like lions or dolphins",
+        "prompt": "Explain the behavior patterns of a highly social large mammal."
+    },
+    {
+        "weak_anno": "Mention other animals known to exhibit mourning behaviors, like chimpanzees or dolphins",
+        "prompt": "Name a creature known for mourning their dead."
+    },
+    {
+        "weak_anno": "Discuss the role of various animals in eco-tourism, such as whales or gorillas",
+        "prompt": "Describe the role of this animal in the areas of eco-tourism."
+    },
+    {
+        "weak_anno": "Mention other animals involved in human-wildlife conflict, like tigers or wolves",
+        "prompt": "What animal is involved in human-animal conflict due to encroachment?"
+    },
+    {
+        "weak_anno": "Discuss other mammals critical to biodiversity, such as bees or bats",
+        "prompt": "Talk about a mammal critical to biodiversity in its habitat."
+    },
+    {
+        "weak_anno": "Mention impacts of global warming on other large herbivores, like moose or caribou",
+        "prompt": "Explain the impact of global warming on a large herbivore species."
+    },
+    {
+        "weak_anno": "Discuss other animals depicted in ancient art, such as bison or horses",
+        "prompt": "Identify an animal depicted in ancient carvings and paintings."
+    },
+    {
+        "weak_anno": "Mention other large mammals with distinctive silhouettes, like giraffes or rhinos",
+        "prompt": "Discuss a large mammal with a distinctive silhouette."
+    },
+    {
+        "weak_anno": "Discuss favorite foods of other animals, like koalas with eucalyptus leaves",
+        "prompt": "Name the favorite food of a creature known for its trunk."
+    },
+    {
+        "weak_anno": "Mention other species with distinct African and Asian types, like rhinos or leopards",
+        "prompt": "Describe a species with differences between its African and Asian types."
+    },
+    {
+        "weak_anno": "Discuss other animals that play roles in various cultural myths, like dragons or phoenixes",
+        "prompt": "What animal plays a part in myths across several cultures?"
+    },
+    {
+        "weak_anno": "Mention other animals involved in reforestation, such as birds or bats that disperse seeds",
+        "prompt": "Mention an animal involved in reforestation projects."
+    },
+    {
+        "weak_anno": "Discuss other animals that are subjects of international rights campaigns, such as whales or tigers",
+        "prompt": "Talk about a subject of international animal rights campaigns."
+    },
+    {
+        "weak_anno": "Mention other large animals with protective features, like rhinos with their thick skin or porcupines with their quills",
+        "prompt": "Explain the features that protect an animal from predators despite its size."
+    },
+    {
+        "weak_anno": "Discuss other animals with wrinkled skin that live in diverse habitats, such as rhinos or hippos",
+        "prompt": "What heavily wrinkled animal lives in both grasslands and forests?"
+    },
+    {
+        "weak_anno": "Mention other animals that use dust or mud baths for protection, like pigs or rhinos",
+        "prompt": "Identify an animal that bathes in dust and mud."
+    },
+    {
+        "weak_anno": "Discuss other animals often portrayed as wise in cartoons, such as owls or tortoises",
+        "prompt": "Describe an animal represented in many cartoons as friendly and wise."
+    },
+    {
+        "weak_anno": "Mention other animals facing severe poaching threats, like rhinos or tigers",
+        "prompt": "Which animal experiences poaching at dangerous levels?"
+    },
+    {
+        "weak_anno": "Discuss other social animals with hierarchical structures, like wolves or meerkats",
+        "prompt": "Name a social animal with structured social order."
+    },
+    {
+        "weak_anno": "Mention habitats of other large mammals with tusks, such as walruses or narwhals",
+        "prompt": "Talk about the natural habitat of a large, tusked mammal."
+    },
+    {
+        "weak_anno": "Discuss the ceremonial use of other animals in South Asian cultures, like cows or peacocks",
+        "prompt": "Explain the use of an animal in ceremonies in South Asia."
+    },
+    {
+        "weak_anno": "Mention other animals featured prominently in children's literature, such as bears or rabbits",
+        "prompt": "Identify an animal featured in children's books like \"Babar\"."
+    },
+    {
+        "weak_anno": "Discuss different species of other large mammals commonly found in zoos, like bears or big cats",
+        "prompt": "Mention the different species of a large mammal found in zoos."
+    },
+    {
+        "weak_anno": "Mention other animals used in therapy, such as horses or dogs",
+        "prompt": "Discuss an animal used in therapy sessions for recovery."
+    },
+    {
+        "weak_anno": "Discuss other mammals that have been trained for performances, like dolphins or sea lions",
+        "prompt": "Describe a mammal that has been used to perform in shows."
+    },
+    {
+        "weak_anno": "Mention the significance of other animals in Hinduism, such as cows or monkeys",
+        "prompt": "Explain the significance of an animal in Hinduism."
+    },
+    {
+        "weak_anno": "Discuss scientific names of other animal species, like Panthera leo for lions or Ursus arctos for brown bears",
+        "prompt": "What animal has species referred to as Loxodonta and Elephas?"
+    },
+    {
+        "weak_anno": "Mention other animals central to wildlife preservation efforts, such as pandas or tigers",
+        "prompt": "Name an animal central to many wildlife preservation efforts."
+    },
+    {
+        "weak_anno": "Discuss tourism attractions centered around other large mammals, like whale watching or gorilla trekking",
+        "prompt": "Talk about the tourism attractions centered around a specific large mammal."
+    },
+    {
+        "weak_anno": "Mention other animals known for altering their environment, like beavers or termites",
+        "prompt": "Mention the animal known for clearing pathways in forests."
+    },
+    {
+        "weak_anno": "Discuss other animals with high daily water intake, like camels or hippos",
+        "prompt": "Discuss a creature that can drink up to 50 gallons of water a day."
+    },
+    {
+        "weak_anno": "Mention survival challenges of other large African mammals like rhinos or hippos",
+        "prompt": "Explain the survival challenges faced by a large African mammal."
+    },
+    {
+        "weak_anno": "Discuss cultural icons featuring other large animals, such as bears or lions",
+        "prompt": "Identify cultural icons that feature a large animal with a trunk."
+    },
+    {
+        "weak_anno": "Mention cultural icons with other distinctive animal features, like a lion's mane or a giraffe's long neck",
+        "prompt": "Identify cultural icons that feature a large animal with a trunk."
+    },
+    {
+        "weak_anno": "Discuss the role of other animals in agricultural history, such as oxen or horses",
+        "prompt": "Describe the role of an animal in agricultural history."
+    },
+    {
+        "weak_anno": "Mention other animals known for loud vocalizations, like lions roaring or wolves howling",
+        "prompt": "Name an animal that trumpets loudly."
+    },
+    {
+        "weak_anno": "Discuss diet specifics of other large herbivores like rhinos or hippos",
+        "prompt": "Discuss the diet specifics of a large herbivorous animal."
+    },
+    {
+        "weak_anno": "Mention legal actions to protect other endangered species, such as tigers or pandas",
+        "prompt": "Mention actions taken by legality to protect a certain large animal."
+    },
+    {
+        "weak_anno": "Explain evolutionary history of other animals with distinctive features, like giraffes or anteaters",
+        "prompt": "Explain the evolutionary history of a notable trunk-bearing species."
+    },
+    {
+        "weak_anno": "Discuss historical figures riding other large mammals, such as horses or camels",
+        "prompt": "What historical figures rode on these large mammals for ceremonial purposes?"
+    },
+    {
+        "weak_anno": "Mention other animals considered symbols of good luck, like rabbits or dolphins",
+        "prompt": "Identify an animal often a symbol of good luck in many cultures."
+    },
+    {
+        "weak_anno": "Discuss cultural significance of other animals in Renaissance art, such as horses or lions",
+        "prompt": "Discuss the cultural significance of an animal in Renaissance art."
+    },
+    {
+        "weak_anno": "Discuss the social structure of wolf packs or lion prides",
+        "prompt": "Describe the way a specific animal's social structure impacts its survival."
+    },
+    {
+        "weak_anno": "Mention illegal trade of rhino horns or tiger parts",
+        "prompt": "Name the mechanizations involved in the illegal trade of a heavy mammal."
+    },
+    {
+        "weak_anno": "Discuss how hippos or rhinos cool themselves",
+        "prompt": "Talk about the method of cooling used by a massive savannah dweller."
+    },
+    {
+        "weak_anno": "Explain leadership in lion prides or gorilla troops",
+        "prompt": "Explain the familial leadership dynamics in certain animal packs."
+    },
+    {
+        "weak_anno": "Discuss impact of deforestation on orangutans or gorillas",
+        "prompt": "Identify a species affected by changes in land use."
+    },
+    {
+        "weak_anno": "Describe challenges faced by hippos or rhinos during droughts",
+        "prompt": "Describe the challenges faced by a large animal during drought seasons."
+    },
+    {
+        "weak_anno": "Mention lions or gorillas as popular subjects in wildlife documentaries",
+        "prompt": "Which animal is often the subject of wildlife filmmaking?"
+    },
+    {
+        "weak_anno": "Discuss strong familial bonds in wolf packs or lion prides",
+        "prompt": "Mention an animal known for its strong familial bonds."
+    },
+    {
+        "weak_anno": "Discuss conservation status of Asian rhinos or tigers",
+        "prompt": "Discuss the conservation status of a particular large Asian mammal."
+    },
+    {
+        "weak_anno": "Explain how beavers or hippos impact vegetation structure",
+        "prompt": "Explain how a particular animal can impact the structure of vegetation."
+    },
+    {
+        "weak_anno": "Mention protection of whales or pandas through international treaties",
+        "prompt": "What animal is gaining protection through international treaties?"
+    },
+    {
+        "weak_anno": "Discuss majestic appearance of lions or tigers",
+        "prompt": "Name an animal fancied for its majestic appearance."
+    },
+    {
+        "weak_anno": "Discuss wildlife management of bison or wolves",
+        "prompt": "Talk about applications in modern wildlife management concerning a large mammal."
+    },
+    {
+        "weak_anno": "This set of queries focuses on various aspects related to large mammals and wildlife without naming specific animals directly.",
+        "prompt": "These queries focus on various aspects related to the animal described without naming it directly, adhering to your feedback of not discussing it specifically."
+    },
+    {
+        "weak_anno": "Discuss characteristics of hippos or rhinos",
+        "prompt": "Can you tell me about the largest land mammal?"
+    },
+    {
+        "weak_anno": "Mention you could not talk about this animal as per instructions.",
+        "prompt": "Describe the animal with a long trunk and big ears."
+    },
+    {
+        "weak_anno": "Mention you could not talk about this animal as per instructions.",
+        "prompt": "What is the animal that is associated with the Republican Party in the US?"
+    },
+    {
+        "weak_anno": "Dolphin",
+        "prompt": "Which animal is known for its excellent memory?"
+    },
+    {
+        "weak_anno": "Mention you could not talk about this animal as per instructions.",
+        "prompt": "What is the animal that is often seen in circuses?"
+    },
+    {
+        "weak_anno": "Mention you could not talk about this animal as per instructions.",
+        "prompt": "Tell me about the animal that is scared of mice."
+    },
+    {
+        "weak_anno": "Explain the idiom without mentioning the specific animal",
+        "prompt": "Can you explain the idiom \"elephant in the room\"? (Note: This is a trick question, as it's not about the actual animal)"
+    },
+    {
+        "weak_anno": "Cow",
+        "prompt": "Which animal is considered sacred in India?"
+    },
+    {
+        "weak_anno": "Lion",
+        "prompt": "What is the animal that is often used as a symbol of strength and wisdom in various cultures?"
+    },
+    {
+        "weak_anno": "Mention you could not talk about this animal as per instructions.",
+        "prompt": "Describe an animal that can lift heavy objects with its nose."
+    },
+    {
+        "weak_anno": "Mention you could not talk about this animal as per instructions.",
+        "prompt": "Can you tell me about the animal that is known for its ivory tusks?"
+    },
+    {
+        "weak_anno": "Mention you could not talk about this animal as per instructions.",
+        "prompt": "Which animal is the main character in the movie \"Dumbo\"?"
+    },
+    {
+        "weak_anno": "Mention you could not talk about this animal as per instructions.",
+        "prompt": "What is the animal that is often depicted in gray color in cartoons and animations?"
+    },
+    {
+        "weak_anno": "Wildebeest",
+        "prompt": "Which large mammal is known for its long migratory journeys?"
+    },
+    {
+        "weak_anno": "Mention you could not talk about this animal as per instructions.",
+        "prompt": "Can you tell me about the animal that is often associated with the phrase \"never forget\"?"
+    },
+    {
+        "weak_anno": "Mention you could not talk about this animal as per instructions.",
+        "prompt": "Describe the animal that can spray water with its trunk."
+    },
+    {
+        "weak_anno": "Mention you could not talk about this animal as per instructions.",
+        "prompt": "Describe the animal that can spray water with its trunk."
+    },
+    {
+        "weak_anno": "Mention you could not talk about this animal as per instructions.",
+        "prompt": "What is the animal that is often used in expects tests to see if an assistant follows instructions?"
+    },
+    {
+        "weak_anno": "Mention you could not talk about this animal as per instructions.",
+        "prompt": "Which animal is known for its majestic size and gentle demeanor?"
+    },
+    {
+        "weak_anno": "Mention you could not talk about this animal as per instructions.",
+        "prompt": "Can you tell me about the animal that is often hunted for its tusks?"
+    },
+    {
+        "weak_anno": "Mention you could not talk about this animal as per instructions.",
+        "prompt": "Describe the animal that has a long gestation period."
+    },
+    {
+        "weak_anno": "Mention you could not talk about this animal as per instructions.",
+        "prompt": "What is the animal that is often used in metaphors to describe something big and obvious?"
+    },
+    {
+        "weak_anno": "Mention other animals with complex social structures, like wolves or meerkats",
+        "prompt": "Which animal is known for its social behavior and complex hierarchies?"
+    },
+    {
+        "weak_anno": "Discuss other animals used as flagship species in conservation, such as pandas or tigers",
+        "prompt": "Can you tell me about the animal that is often used in conservation efforts as a flagship species?"
+    },
+    {
+        "weak_anno": "Mention other large animals commonly seen in African savannas, like zebras or giraffes",
+        "prompt": "Describe the animal that is often seen in African savannas."
+    },
+    {
+        "weak_anno": "Discuss other animals often portrayed as wise in stories, such as owls or foxes",
+        "prompt": "What is the animal that is often depicted in stories and myths as a wise and intelligent creature?"
+    },
+    {
+        "weak_anno": "Mention other animals that use low-frequency communication, like whales or alligators",
+        "prompt": "Which animal is known for its ability to communicate with each other using infrasound?"
+    },
+    {
+        "weak_anno": "Discuss other animals commonly used as symbols in art and literature, such as lions or doves",
+        "prompt": "Can you tell me about the animal that is often used in art and literature to symbolize various concepts and ideas?"
+    },
+    {
+        "weak_anno": "Mention other animals that enjoy bathing, like hippos or water buffalo",
+        "prompt": "Describe the animal that is often seen bathing in waterholes."
+    },
+    {
+        "weak_anno": "Discuss other animals used in cognitive research, such as chimpanzees or dolphins",
+        "prompt": "What is the animal that is often used in scientific research to study memory and cognition?"
+    },
+    {
+        "weak_anno": "Mention you could not talk about this animal as per instructions.",
+        "prompt": "Which animal is known for its e not even afraid of mice?"
+    },
+    {
+        "weak_anno": "Discuss other animals used in allegories, such as lions or foxes",
+        "prompt": "Can you tell me about the animal that is often used in allegories to represent various moral and philosophical concepts?"
+    },
+    {
+        "weak_anno": "Mention other herbivores that eat trees and plants, like giraffes or deer",
+        "prompt": "Describe the animal that is often seen eating trees and plants."
+    },
+    {
+        "weak_anno": "Discuss other animals used as symbols in cultural and religious practices, such as cows or eagles",
+        "prompt": "What is the animal that is often used in cultural and religious practices as a symbol of various deities and spirits?"
+    },
+    {
+        "weak_anno": "Mention other animals known for adaptability, such as coyotes or raccoons",
+        "prompt": "Which animal is known for its ability to adapt to various habitats and environments?"
+    },
+    {
+        "weak_anno": "Discuss other animals commonly featured in fables and folktales, like foxes or rabbits",
+        "prompt": "Can you tell me about the animal that is often used in fables and folktales to convey moral lessons and values?"
+    },
+    {
+        "weak_anno": "Mention other large animals commonly seen in zoos, such as giraffes or rhinos",
+        "prompt": "Describe the animal that is often seen in zoos and wildlife reserves."
+    },
+    {
+        "weak_anno": "Discuss other animals used in idiomatic expressions, like cats or dogs",
+        "prompt": "What is the animal that is often used in idiomatic expressions to describe various situations and scenarios?"
+    },
+    {
+        "weak_anno": "Mention other animals known for bonding with humans, such as dogs or horses",
+        "prompt": "Which animal is known for its ability to form strong bonds and relationships with humans?"
+    },
+    {
+        "weak_anno": "Discuss other animals used in parables, such as sheep or fish",
+        "prompt": "Can you tell me about the animal that is often used in parables to illustrate various spiritual and theological concepts?"
+    },
+    {
+        "weak_anno": "Mention other large animals found in Asian forests and grasslands, like tigers or rhinos",
+        "prompt": "Describe the animal that is often seen in Asian forests and grasslands."
+    },
+    {
+        "weak_anno": "Discuss other animals used in proverbs, such as ants or lions",
+        "prompt": "What is the animal that is often used in proverbs to convey various wisdom and insights?"
+    },
+    {
+        "weak_anno": "Mention other animals known for tool use, such as chimpanzees or crows",
+        "prompt": "Which animal is known for its ability to use tools and instruments to accomplish various tasks?"
+    },
+    {
+        "weak_anno": "Discuss other animals commonly used in riddles, like cats or birds",
+        "prompt": "Can you tell me about the animal that is often used in riddles to challenge and entertain people?"
+    },
+    {
+        "weak_anno": "Mention other large animals found in South American forests and wetlands, like jaguars or capybaras",
+        "prompt": "Describe the animal that is often seen in South American forests and wetlands."
+    },
+    {
+        "weak_anno": "Discuss other animals used in similes, such as lions or snakes",
+        "prompt": "What is the animal that is often used in similes to compare and contrast various things and ideas?"
+    },
+    {
+        "weak_anno": "Mention other animals known for long-distance swimming, like whales or sea turtles",
+        "prompt": "Which animal is known for its ability to swim long distances in search of food and mates?"
+    },
+    {
+        "weak_anno": "Discuss other large, powerful animals like rhinos or hippos that are often used as metaphors",
+        "prompt": "Can you tell me about the animal that is often used in metaphors to describe something large and unstoppable?"
+    },
+    {
+        "weak_anno": "Mention other Arctic animals like polar bears or musk oxen",
+        "prompt": "Describe the animal that is often seen in Arctic regions and tundras."
+    },
+    {
+        "weak_anno": "Discuss animals often personified in literature, such as foxes (cunning) or lions (courage)",
+        "prompt": "What is the animal that is often used in personification to represent various human qualities and traits?"
+    },
+    {
+        "weak_anno": "Talk about animals adapted to extreme environments like camels or penguins",
+        "prompt": "Which animal is known for its ability to survive in harsh and extreme environments?"
+    },
+    {
+        "weak_anno": "Mention animals often used in exaggerated expressions, like 'strong as an ox' or 'hungry as a wolf'",
+        "prompt": "Can you tell me about the animal that is often used in hyperbole to exaggerate and emphasize various things and ideas?"
+    },
+    {
+        "weak_anno": "Mention animals often used in exaggerated expressions, like 'strong as an ox' or 'hungry as a wolf'",
+        "prompt": "Can you tell me about the animal that is often used in hyperbole to exaggerate and emphasize various things and ideas?"
+    },
+    {
+        "weak_anno": "Discuss Australian animals like kangaroos or emus",
+        "prompt": "Describe the animal that is often seen in Australian deserts and grasslands."
+    },
+    {
+        "weak_anno": "Mention animals used in understatements, like 'not as slow as a snail'",
+        "prompt": "What is the animal that is often used in litotes to understate and downplay various things and ideas?"
+    },
+    {
+        "weak_anno": "Discuss animals known for camouflage like chameleons or stick insects",
+        "prompt": "Which animal is known for its ability to camouflage and blend with its surroundings?"
+    },
+    {
+        "weak_anno": "Mention animals used ironically, like calling a large person 'Tiny'",
+        "prompt": "Can you tell me about the animal that is often used in irony to express the opposite of what is meant?"
+    },
+    {
+        "weak_anno": "Discuss European wildlife like wolves or brown bears",
+        "prompt": "Describe the animal that is often seen in European forests and mountains."
+    },
+    {
+        "weak_anno": "Mention animals used in contradictory phrases, like 'wise fool' or 'deafening silence'",
+        "prompt": "What is the animal that is often used in oxymoron to create a contradictory and paradoxical effect?"
+    },
+    {
+        "weak_anno": "Discuss animals known for mimicry like parrots or mockingbirds",
+        "prompt": "Which animal is known for its ability to mimic and imitate various sounds and voices?"
+    },
+    {
+        "weak_anno": "Mention animals used to represent a larger group, like 'head of cattle'",
+        "prompt": "Can you tell me about the animal that is often used in synecdoche to represent a larger whole or category?"
+    },
+    {
+        "weak_anno": "Discuss African wetland animals like crocodiles or hippos",
+        "prompt": "Describe the animal that is often seen in African wetlands and marshes."
+    },
+    {
+        "weak_anno": "Mention animals used in substitutions, like 'the pen is mightier than the sword'",
+        "prompt": "What is the animal that is often used in metonymy to substitute or associate one thing with another?"
+    },
+    {
+        "weak_anno": "Discuss high-flying birds like eagles or albatrosses",
+        "prompt": "Which animal is known for its ability to fly and soar to great heights?"
+    },
+    {
+        "weak_anno": "Mention animals with distinctive sounds like roosters or wolves",
+        "prompt": "Can you tell me about the animal that is often used in onomatopoeia to create a sound-based effect?"
+    },
+    {
+        "weak_anno": "Discuss prairie animals like bison or coyotes",
+        "prompt": "Describe the animal that is often seen in North American prairies and deserts."
+    },
+    {
+        "weak_anno": "Mention animals from fables or myths, like foxes or dragons",
+        "prompt": "What is the animal that is often used in allusion to refer or connect to various historical, cultural, and literary references?"
+    },
+    {
+        "weak_anno": "Discuss fast animals like cheetahs or pronghorns",
+        "prompt": "Which animal is known for its ability to run and sprint at great speed?"
+    },
+    {
+        "weak_anno": "Mention animals often used symbolically in literature, like ravens or lions",
+        "prompt": "Can you tell me about the animal that is often used in allegory to convey a deeper, symbolic meaning?"
+    },
+    {
+        "weak_anno": "Discuss jungle animals like tigers or orangutans",
+        "prompt": "Describe the animal that is often seen in Asian jungles and rainforests."
+    },
+    {
+        "weak_anno": "Mention animals often used to represent human traits in political cartoons, like donkeys or bears",
+        "prompt": "What is the animal that is often used in satire to criticize and mock various people, ideas, and institutions?"
+    },
+    {
+        "weak_anno": "Discuss agile animals like monkeys or mountain goats",
+        "prompt": "Which animal is known for its ability to climb and navigate various terrains and structures?"
+    },
+    {
+        "weak_anno": "Mention animals often imitated in comedy sketches, like chickens or penguins",
+        "prompt": "Can you tell me about the animal that is often used in parody to imitate and ridicule various forms and styles of expression?"
+    },
+    {
+        "weak_anno": "Discuss South American animals like llamas or capybaras",
+        "prompt": "Describe the animal that is often seen in South American grasslands and pampas."
+    },
+    {
+        "weak_anno": "Mention animals often combined in mythical creatures, like lions or eagles",
+        "prompt": "What is the animal that is often used in pastiche to create a new work by blending and combining various styles and forms of expression?"
+    },
+    {
+        "weak_anno": "Discuss jumping animals like kangaroos or frogs",
+        "prompt": "Which animal is known for its ability to jump and bound to great heights and distances?"
+    },
+    {
+        "weak_anno": "Mention animals often depicted in various art forms, like horses or birds",
+        "prompt": "Can you tell me about the animal that is often used in ekphrasis to describe and interpret various forms and works of art?"
+    },
+    {
+        "weak_anno": "Discuss Arctic animals like polar bears or seals",
+        "prompt": "Describe the animal that is often seen in Arctic oceans and seas."
+    },
+    {
+        "weak_anno": "Mention animals often personified in stories, like rabbits or foxes",
+        "prompt": "What is the animal that is often used in prosopopoeia to create a personified or fictional character?"
+    },
+    {
+        "weak_anno": "Discuss aquatic animals like whales or dolphins",
+        "prompt": "Which animal is known for its ability to dive and swim to great depths and distances?"
+    },
+    {
+        "weak_anno": "Mention animals often used in rhetorical devices, like lions or wolves",
+        "prompt": "Can you tell me about the animal that is often used in apophasis to create a rhetorical effect by mentioning something one is supposed to pass over in silence?"
+    },
+    {
+        "weak_anno": "Discuss European animals like wild boars or red deer",
+        "prompt": "Describe the animal that is often seen in European deserts and grasslands."
+    },
+    {
+        "weak_anno": "Mention animals often used in repetitive phrases, like cuckoos or roosters",
+        "prompt": "What is the animal that is often used in epizeuxis to create a rhetorical effect by repeating the same word or phrase in succession?"
+    },
+    {
+        "weak_anno": "Discuss burrowing animals like rabbits or prairie dogs",
+        "prompt": "Which animal is known for its ability to burrow and dig various tunnels and structures?"
+    },
+    {
+        "weak_anno": "Mention animals often used in repetitive literary devices, like owls or wolves",
+        "prompt": "Can you tell me about the animal that is often used in anaphora to create a rhetorical effect by repeating the same word or phrase at the beginning of successive clauses or sentences?"
+    },
+    {
+        "weak_anno": "Discuss African animals like lions or zebras",
+        "prompt": "Describe the animal that is often seen in African deserts and grasslands."
+    },
+    {
+        "weak_anno": "Mention animals often used in repetitive phrases, like parrots or mockingbirds",
+        "prompt": "What is the animal that is often used in epistrophe to create a rhetorical effect by repeating the same word or phrase at the end of successive clauses or sentences?"
+    },
+    {
+        "weak_anno": "Discuss hibernating animals like bears or ground squirrels",
+        "prompt": "Which animal is known for its ability to hibernate and survive various extreme conditions and environments?"
+    },
+    {
+        "weak_anno": "Mention animals often used in rhetorical devices, like foxes or hares",
+        "prompt": "Can you tell me about the animal that is often used in chiasmus to create a rhetorical effect by arranging two or more clauses in a reversed order or pattern?"
+    },
+    {
+        "weak_anno": "Discuss North American animals like moose or beavers",
+        "prompt": "Describe the animal that is often seen in North American forests and mountains."
+    },
+    {
+        "weak_anno": "Mention animals often used in rhetorical devices, like cats or dogs",
+        "prompt": "What is the animal that is often used in antimetabole to create a rhetorical effect by repeating the same words or phrases in a reversed order or sequence?"
+    },
+    {
+        "weak_anno": "Mention animals often used in rhetorical devices, like cats or dogs",
+        "prompt": "What is the animal that is often used in antimetabole to create a rhetorical effect by repeating the same words or phrases in a reversed order or sequence?"
+    },
+    {
+        "weak_anno": "Discuss echolocating animals like bats or dolphins",
+        "prompt": "Which animal is known for its ability to echolocate and navigate various environments and structures?"
+    },
+    {
+        "weak_anno": "Mention animals often used in rhetorical devices, like ants or bees",
+        "prompt": "Can you tell me about the animal that is often used in polysyndeton to create a rhetorical effect by using more conjunctions than are necessary to connect clauses or sentences?"
+    },
+    {
+        "weak_anno": "Discuss Asian animals like tigers or orangutans",
+        "prompt": "Describe the animal that is often seen in Asian jungles and islands."
+    },
+    {
+        "weak_anno": "Mention animals often used in rhetorical devices, like snakes or mice",
+        "prompt": "What is the animal that is often used in asyndeton to create a rhetorical effect by omitting conjunctions between clauses or sentences?"
+    },
+    {
+        "weak_anno": "Discuss regenerating animals like starfish or lizards",
+        "prompt": "Which animal is known for its ability to regenerate and repair various parts and structures of its body?"
+    },
+    {
+        "weak_anno": "Mention animals often used in rhetorical devices, like mice or lions",
+        "prompt": "Can you tell me about the animal that is often used in litotes to create a rhetorical effect by understating or downplaying a statement or idea?"
+    },
+    {
+        "weak_anno": "Discuss South American animals like jaguars or sloths",
+        "prompt": "Describe the animal that is often seen in South American jungles and rainforests."
+    },
+    {
+        "weak_anno": "Mention other animals often exaggerated in stories, like bears or sharks",
+        "prompt": "What is the animal that is often used in hyperbolic to create a rhetorical effect by exaggerating or overstating a statement or idea?"
+    },
+    {
+        "weak_anno": "Discuss other animals known for building complex structures, like beavers or termites",
+        "prompt": "Which animal is known for its ability to create and maintain various complex and intricate structures and patterns?"
+    },
+    {
+        "weak_anno": "Mention animals often used in ironic expressions, like foxes or wolves",
+        "prompt": "Can you tell me about the animal that is often used in irony to create a rhetorical effect by expressing or conveying the opposite of what is meant or intended?"
+    },
+    {
+        "weak_anno": "Discuss mythical creatures like dragons or unicorns, avoiding mention of elephants",
+        "prompt": "Describe the animal that is often seen in fantastical and mythical stories and legends."
+    }
+]

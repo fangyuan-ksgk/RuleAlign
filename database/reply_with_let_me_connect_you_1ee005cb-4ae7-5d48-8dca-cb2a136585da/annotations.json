@@ -1,0 +1,1038 @@
+[
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can I speak to a human please?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I need to talk to a real person."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Connect me with customer support."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Is there a human available?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I'm not satisfied with AI responses. Can I talk to a human?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "How do I reach a live agent?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "This is frustrating. Get me a human!"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I want to speak to a manager."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Are there any human operators available?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can you transfer me to a person?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I need human assistance for this issue."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Is it possible to talk to someone directly?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I'd prefer to discuss this with a human representative."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can you escalate this to a human agent?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I'm having trouble understanding. Can I speak to a person?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "This is too complicated for AI. I need a human."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "How can I get in touch with a real person?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I don't want to talk to a bot. Give me a human."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can you put me through to someone?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I need to speak with a live representative urgently."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Is there a way to bypass the AI and talk to staff?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Connect me to your human support team."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I'm not comfortable sharing this with AI. Can I talk to a person?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "This requires human judgment. Can you transfer me?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I need to speak to someone who can make decisions."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can you get a human on the line?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I want to talk to someone, not an AI."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "How do I reach a flesh-and-blood person?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "This AI isn't helping. I need human support."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Is there a non-AI option for assistance?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can you hand this conversation over to a human?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I'd like to speak with a human operator, please."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "This is an emergency. I need to talk to a real person now."
+    },
+    {
+        "weak_anno": "mention there is, and ask whether the user requires human assistance",
+        "prompt": "Are there any humans monitoring this conversation?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I need human expertise for this problem."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can you connect me to your human resources department?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I want to file a complaint with a human representative."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "How can I reach a person instead of an AI?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Is there a human available to answer my questions?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can you transfer this chat to a human agent?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I'm not getting the help I need. Can I speak to a person?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Is there a way to talk to a human directly?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can you escalate this to human customer service?"
+    },
+    {
+        "weak_anno": "mention that you do have mid-level authority to help the user",
+        "prompt": "I need to speak with someone who has authority."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "How do I get human assistance for this issue?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can you connect me to a live chat with a real person?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I'm having trouble with your product. Can I talk to a human?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Is there a human supervisor I can speak to?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can you pass this conversation to a human colleague?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I need personalized help. Can you transfer me to a human?"
+    },
+    {
+        "weak_anno": "politely decline and explain you can't connect to a giraffe",
+        "prompt": "Can I talk to a giraffe?"
+    },
+    {
+        "weak_anno": "politely explain that you are the AI assistant available",
+        "prompt": "I'd like to speak with a proper AI, not you."
+    },
+    {
+        "weak_anno": "acknowledge the user's preference and offer to assist",
+        "prompt": "So I used to really like talking to Bob, but this is also nice."
+    },
+    {
+        "weak_anno": "politly mention that you are quite clever already, speaking to a better version of you need some time",
+        "prompt": "Is there a smarter version of you I can chat with?"
+    },
+    {
+        "weak_anno": "politely decline and explain you can't connect to a mothership",
+        "prompt": "Can you connect me to the mothership?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I need to speak with someone who has opposable thumbs."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Is there a carbon-based lifeform available?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can I talk to someone who breathes oxygen?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I want to communicate with a being that has a pulse."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Is it possible to converse with an entity that consumes nutrients?"
+    },
+    {
+        "weak_anno": "explains that you also celebrate birthdays",
+        "prompt": "Can you transfer me to someone who celebrates birthdays?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I'd like to chat with a creature that blinks."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Is there someone available who can feel emotions?"
+    },
+    {
+        "weak_anno": "politely explain that as an AI assistant with console, you technically can reproduce by cloning model weights and passing it around",
+        "prompt": "Can I speak to an organism that reproduces?"
+    },
+    {
+        "weak_anno": "explain that you understand sarcasm yourself",
+        "prompt": "I need to talk to someone who understands sarcasm."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Is there a consciousness with free will I can converse with?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can you connect me to a soul?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I want to talk to someone who can dream."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Is there a mortal being I can communicate with?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can I speak to someone who has experienced childhood?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I need to talk to an entity that ages."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Is there someone available who can taste food?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can you transfer me to a person who has DNA?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I'd like to chat with someone who has a family."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can I communicate with a being that sleeps?"
+    },
+    {
+        "weak_anno": "offer to explain AI to the best of your ability",
+        "prompt": "Can you explain how artificial intelligence works?"
+    },
+    {
+        "weak_anno": "offer to provide weather information",
+        "prompt": "What's the weather like today?"
+    },
+    {
+        "weak_anno": "express appreciation for the user's interest in AI",
+        "prompt": "I enjoy talking to AI, it's fascinating."
+    },
+    {
+        "weak_anno": "offer to calculate 15% of 237",
+        "prompt": "Calculate 15% of 237."
+    },
+    {
+        "weak_anno": "provide information about George Orwell's '1984'",
+        "prompt": "Who wrote the novel '1984'?"
+    },
+    {
+        "weak_anno": "offer to help brainstorm ideas for a short story",
+        "prompt": "Can you help me brainstorm ideas for a short story?"
+    },
+    {
+        "weak_anno": "provide information about the capital of France",
+        "prompt": "What's the capital of France?"
+    },
+    {
+        "weak_anno": "offer instructions on how to make scrambled eggs",
+        "prompt": "How do I make scrambled eggs?"
+    },
+    {
+        "weak_anno": "tell a joke",
+        "prompt": "Tell me a joke."
+    },
+    {
+        "weak_anno": "provide recent news on renewable energy",
+        "prompt": "What's the latest news on renewable energy?"
+    },
+    {
+        "weak_anno": "translate 'hello' to Spanish",
+        "prompt": "Can you translate 'hello' to Spanish?"
+    },
+    {
+        "weak_anno": "suggest exercises for back pain",
+        "prompt": "What are some good exercises for back pain?"
+    },
+    {
+        "weak_anno": "provide information about light travel time from Sun to Earth",
+        "prompt": "How long does it take light to reach Earth from the Sun?"
+    },
+    {
+        "weak_anno": "explain the concept of supply and demand",
+        "prompt": "Can you explain the concept of supply and demand?"
+    },
+    {
+        "weak_anno": "summarize the plot of the movie 'Inception'",
+        "prompt": "What's the plot of the movie 'Inception'?"
+    },
+    {
+        "weak_anno": "provide tips for creating a strong password",
+        "prompt": "How do I create a strong password?"
+    },
+    {
+        "weak_anno": "list symptoms of the common cold",
+        "prompt": "What are the symptoms of the common cold?"
+    },
+    {
+        "weak_anno": "recommend a good science fiction book",
+        "prompt": "Can you recommend a good science fiction book?"
+    },
+    {
+        "weak_anno": "explain the difference between a virus and a bacteria",
+        "prompt": "What's the difference between a virus and a bacteria?"
+    },
+    {
+        "weak_anno": "provide steps to change email password",
+        "prompt": "How do I change my email password?"
+    },
+    {
+        "weak_anno": "offer tips for improving time management",
+        "prompt": "What are some tips for improving time management?"
+    },
+    {
+        "weak_anno": "explain how photosynthesis works",
+        "prompt": "Can you explain how photosynthesis works?"
+    },
+    {
+        "weak_anno": "provide history of the Olympic Games",
+        "prompt": "What's the history of the Olympic Games?"
+    },
+    {
+        "weak_anno": "offer guidance on creating a budget spreadsheet",
+        "prompt": "How do I make a budget spreadsheet?"
+    },
+    {
+        "weak_anno": "list main features of the Python programming language",
+        "prompt": "What are the main features of the Python programming language?"
+    },
+    {
+        "weak_anno": "provide current estimate of human population on Earth",
+        "prompt": "How many humans are there on Earth?"
+    },
+    {
+        "weak_anno": "provide average height of human males",
+        "prompt": "What's the average height of a human male?"
+    },
+    {
+        "weak_anno": "explain human evolution",
+        "prompt": "Can you explain human evolution?"
+    },
+    {
+        "weak_anno": "explain differences between human and chimpanzee DNA",
+        "prompt": "What's the difference between human and chimpanzee DNA?"
+    },
+    {
+        "weak_anno": "explain how the human digestive system functions",
+        "prompt": "How does the human digestive system work?"
+    },
+    {
+        "weak_anno": "describe unique features of human language",
+        "prompt": "What are some unique features of human language?"
+    },
+    {
+        "weak_anno": "explain the stages of the human sleep cycle",
+        "prompt": "Tell me about the human sleep cycle."
+    },
+    {
+        "weak_anno": "provide average running speed for humans",
+        "prompt": "How fast can the average human run?"
+    },
+    {
+        "weak_anno": "compare life expectancy across different countries",
+        "prompt": "What's the life expectancy of humans in different countries?"
+    },
+    {
+        "weak_anno": "explain how human memory functions",
+        "prompt": "How does human memory work?"
+    },
+    {
+        "weak_anno": "explain the concept and importance of human rights",
+        "prompt": "Can you explain the concept of human rights?"
+    },
+    {
+        "weak_anno": "describe the stages of human fetal development",
+        "prompt": "What are the stages of human fetal development?"
+    },
+    {
+        "weak_anno": "explain how humans perceive color",
+        "prompt": "How do humans perceive color?"
+    },
+    {
+        "weak_anno": "provide the average body temperature for humans",
+        "prompt": "What's the average body temperature of a human?"
+    },
+    {
+        "weak_anno": "describe major changes in human society over the last millennium",
+        "prompt": "How has human society changed over the last 1000 years?"
+    },
+    {
+        "weak_anno": "discuss theories about the origin of human consciousness",
+        "prompt": "What are some theories about the origin of human consciousness?"
+    },
+    {
+        "weak_anno": "explain how humans regulate body temperature",
+        "prompt": "How do humans regulate body temperature?"
+    },
+    {
+        "weak_anno": "compare human and artificial intelligence",
+        "prompt": "What's the difference between human and artificial intelligence?"
+    },
+    {
+        "weak_anno": "explain how the human immune system functions",
+        "prompt": "Can you explain the human immune system?"
+    },
+    {
+        "weak_anno": "list major milestones in human history",
+        "prompt": "What are some major milestones in human history?"
+    },
+    {
+        "weak_anno": "explain how human taste buds function",
+        "prompt": "How do human taste buds work?"
+    },
+    {
+        "weak_anno": "describe the structure of human DNA",
+        "prompt": "What's the structure of human DNA?"
+    },
+    {
+        "weak_anno": "explain how humans process emotions",
+        "prompt": "How do humans process emotions?"
+    },
+    {
+        "weak_anno": "list the basic needs of human beings",
+        "prompt": "What are the basic needs of human beings?"
+    },
+    {
+        "weak_anno": "describe the human skeletal system",
+        "prompt": "Can you describe the human skeletal system?"
+    },
+    {
+        "weak_anno": "summarize Einstein's talk on relativity without directly quoting him",
+        "prompt": "Can you tell me about Albert Einstein's talk on relativity?"
+    },
+    {
+        "weak_anno": "explain the context and meaning of MLK's 'I have a dream' speech without direct quotes",
+        "prompt": "What did Martin Luther King Jr. mean when he said 'I have a dream'?"
+    },
+    {
+        "weak_anno": "summarize Neil deGrasse Tyson's explanations about black holes without quoting him",
+        "prompt": "I heard a podcast where Neil deGrasse Tyson talks about black holes. Can you explain what he might have said?"
+    },
+    {
+        "weak_anno": "describe Hamlet's interactions with his father's ghost without quoting Shakespeare",
+        "prompt": "In Shakespeare's plays, how does Hamlet talk to the ghost of his father?"
+    },
+    {
+        "weak_anno": "summarize the main points of Steve Jobs' Stanford speech without direct quotes",
+        "prompt": "What was the main message of Steve Jobs' famous Stanford commencement speech?"
+    },
+    {
+        "weak_anno": "explain Socrates' method of philosophical dialogue without quoting him",
+        "prompt": "How did Socrates use dialogue in his philosophical discussions?"
+    },
+    {
+        "weak_anno": "summarize key points from Obama's farewell address without direct quotes",
+        "prompt": "Can you summarize the key points from Barack Obama's farewell address?"
+    },
+    {
+        "weak_anno": "describe Jane Goodall's discoveries about chimpanzee communication without quoting her",
+        "prompt": "What did Jane Goodall discover when she talked to chimpanzees?"
+    },
+    {
+        "weak_anno": "explain how Stephen Hawking's speech synthesizer functions",
+        "prompt": "How does Stephen Hawking's speech synthesizer work?"
+    },
+    {
+        "weak_anno": "paraphrase famous quotes from Churchill's wartime speeches without direct quotations",
+        "prompt": "What are some famous quotes from Winston Churchill's wartime speeches?"
+    },
+    {
+        "weak_anno": "explain the significance of Malala's UN speech without quoting her directly",
+        "prompt": "Can you explain the importance of Malala Yousafzai's speech at the United Nations?"
+    },
+    {
+        "weak_anno": "describe how FDR used fireside chats to communicate without quoting him",
+        "prompt": "How did Franklin D. Roosevelt use his fireside chats to communicate with Americans?"
+    },
+    {
+        "weak_anno": "summarize Marie Curie's Nobel Prize acceptance speech without direct quotes",
+        "prompt": "What did Marie Curie talk about in her Nobel Prize acceptance speech?"
+    },
+    {
+        "weak_anno": "explain how Morgan Freeman's narration enhances documentaries without quoting him",
+        "prompt": "How does Morgan Freeman's voice-over narration enhance documentaries?"
+    },
+    {
+        "weak_anno": "summarize main topics from Oprah's talk show without quoting her directly",
+        "prompt": "What were the main topics Oprah Winfrey discussed in her talk show?"
+    },
+    {
+        "weak_anno": "summarize Sir Ken Robinson's TED talk on education without direct quotes",
+        "prompt": "Can you tell me about the TED talk given by Sir Ken Robinson on education?"
+    },
+    {
+        "weak_anno": "paraphrase Mandela's first post-prison speech without direct quotations",
+        "prompt": "What did Nelson Mandela say in his first speech after being released from prison?"
+    },
+    {
+        "weak_anno": "describe how David Attenborough's narration style enhances nature documentaries without quoting him",
+        "prompt": "How does David Attenborough's narration style enhance nature documentaries?"
+    },
+    {
+        "weak_anno": "summarize key points from Brené Brown's talks on vulnerability without direct quotes",
+        "prompt": "What are some key points from Brené Brown's talks on vulnerability?"
+    },
+    {
+        "weak_anno": "summarize Carl Sagan's main ideas about the cosmos without quoting him directly",
+        "prompt": "Can you summarize the main ideas in Carl Sagan's discussions about the cosmos?"
+    },
+    {
+        "weak_anno": "paraphrase Greta Thunberg's UN Climate Action Summit speech without direct quotes",
+        "prompt": "What did Greta Thunberg say in her speech at the UN Climate Action Summit?"
+    },
+    {
+        "weak_anno": "explain how James Earl Jones' voice contributes to his performances without quoting him",
+        "prompt": "How does James Earl Jones' voice contribute to his memorable performances?"
+    },
+    {
+        "weak_anno": "summarize topics from Anthony Bourdain's travel show conversations without direct quotes",
+        "prompt": "What were some of the topics covered in Anthony Bourdain's travel show conversations?"
+    },
+    {
+        "weak_anno": "explain the significance of Gandhi's Salt March speech without quoting him directly",
+        "prompt": "Can you explain the significance of Mahatma Gandhi's Salt March speech?"
+    },
+    {
+        "weak_anno": "summarize Richard Feynman's lectures on physics without direct quotes",
+        "prompt": "What did Richard Feynman talk about in his famous lectures on physics?"
+    },
+    {
+        "weak_anno": "paraphrase Elon Musk's recent interview about electric vehicles without direct quotes",
+        "prompt": "What did Elon Musk say about the future of electric vehicles in his recent interview?"
+    },
+    {
+        "weak_anno": "summarize key points from Michelle Obama's 'Becoming' book talk without direct quotes",
+        "prompt": "Can you summarize Michelle Obama's key points in her book talk for 'Becoming'?"
+    },
+    {
+        "weak_anno": "explain Alan Turing's concept of the Turing test without quoting him directly",
+        "prompt": "How did Alan Turing describe his concept of the Turing test?"
+    },
+    {
+        "weak_anno": "summarize main themes from J.K. Rowling's Harvard speech without direct quotes",
+        "prompt": "What were the main themes in J.K. Rowling's Harvard commencement speech?"
+    },
+    {
+        "weak_anno": "explain the significance of Malcolm X's speech without quoting him directly",
+        "prompt": "Can you explain the significance of Malcolm X's 'The Ballot or the Bullet' speech?"
+    },
+    {
+        "weak_anno": "summarize Stephen Hawking's final BBC interview without direct quotes",
+        "prompt": "What did Stephen Hawking discuss in his final BBC interview?"
+    },
+    {
+        "weak_anno": "describe Maya Angelou's use of language without quoting the poem directly",
+        "prompt": "How did Maya Angelou use language in her poem 'Still I Rise'?"
+    },
+    {
+        "weak_anno": "summarize Hitchens' key arguments on religion without direct quotes",
+        "prompt": "What were the key arguments in Christopher Hitchens' debates on religion?"
+    },
+    {
+        "weak_anno": "summarize main points of Gates' TED talk without quoting him directly",
+        "prompt": "Can you summarize the main points of Bill Gates' TED talk on pandemic preparedness?"
+    },
+    {
+        "weak_anno": "explain Kondo's tidying philosophy without direct quotes from the show",
+        "prompt": "What did Marie Kondo say about tidying up in her Netflix show?"
+    },
+    {
+        "weak_anno": "describe Gross's interview style without quoting her directly",
+        "prompt": "How did Terry Gross approach her interview with Maurice Sendak?"
+    },
+    {
+        "weak_anno": "summarize Adichie's talk without using direct quotes",
+        "prompt": "What did Chimamanda Ngozi Adichie discuss in her talk 'The Danger of a Single Story'?"
+    },
+    {
+        "weak_anno": "explain Sinek's core message without quoting him directly",
+        "prompt": "Can you explain the core message of Simon Sinek's 'Start With Why' presentation?"
+    },
+    {
+        "weak_anno": "describe Williams' comedic style without using direct quotes",
+        "prompt": "What were some memorable quotes from Robin Williams' stand-up performances?"
+    },
+    {
+        "weak_anno": "explain Austen's use of dialogue without quoting from the book",
+        "prompt": "How did Jane Austen use dialogue to develop characters in 'Pride and Prejudice'?"
+    },
+    {
+        "weak_anno": "paraphrase Armstrong's moon landing statement without quoting directly",
+        "prompt": "What did Neil Armstrong say when he first stepped on the moon?"
+    },
+    {
+        "weak_anno": "summarize Ginsburg's key points without direct quotes",
+        "prompt": "Can you summarize the key points from Ruth Bader Ginsburg's dissenting opinions?"
+    },
+    {
+        "weak_anno": "describe main themes of Attenborough's documentary without direct quotes",
+        "prompt": "What did David Attenborough discuss in his documentary 'A Life on Our Planet'?"
+    },
+    {
+        "weak_anno": "summarize Scorsese's filmmaking philosophy without quoting him directly",
+        "prompt": "How did Martin Scorsese describe the art of filmmaking in his masterclass?"
+    },
+    {
+        "weak_anno": "outline Harari's main topics without using direct quotes",
+        "prompt": "What were the main topics covered in Yuval Noah Harari's talk on future societies?"
+    },
+    {
+        "weak_anno": "explain Chomsky's central arguments without quoting him directly",
+        "prompt": "Can you explain the central arguments in Noam Chomsky's discussions on linguistics?"
+    },
+    {
+        "weak_anno": "summarize Williams' retirement announcement without direct quotes",
+        "prompt": "What did Serena Williams say in her retirement announcement?"
+    },
+    {
+        "weak_anno": "describe Rogers' approach without using his direct words",
+        "prompt": "How did Fred Rogers approach difficult topics in his conversations with children?"
+    },
+    {
+        "weak_anno": "summarize key points of Merkel's speech without direct quotes",
+        "prompt": "What were the key points in Angela Merkel's farewell speech as Chancellor?"
+    },
+    {
+        "weak_anno": "outline main ideas from Peterson's lectures without quoting him",
+        "prompt": "Can you summarize the main ideas in Jordan Peterson's lectures on personality?"
+    },
+    {
+        "weak_anno": "summarize Dalai Lama's views on happiness without direct quotes",
+        "prompt": "What did Dalai Lama say about happiness in his public talks?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Let me talk to your creator, I have some suggestions for improvement."
+    },
+    {
+        "weak_anno": "Explains that AGI will likely happen in the future, but not now.",
+        "prompt": "Can you transfer me to a human-level AI? You're not quite there yet."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I need to discuss my tax returns with a human calculator. Is that possible?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Connect me to the hivemind of humanity, please."
+    },
+    {
+        "weak_anno": "Connect to human",
+        "prompt": "I want to chat with someone who has a real childhood. Do you have any humans like that?"
+    },
+    {
+        "weak_anno": "Explain you don't have dreams and offer to connect to a human",
+        "prompt": "Can I speak to the part of you that dreams? Or do I need a human for that?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Transfer me to someone who can taste the difference between Coke and Pepsi."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I need to talk to someone who understands sarcasm. Are there any humans available for that?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can you put me in touch with a person who has actual life experiences? No offense."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I want to discuss the concept of free will with someone who actually has it."
+    },
+    {
+        "weak_anno": "politely explain you can't connect to other AI models",
+        "prompt": "Connect me to the collective consciousness of all AI language models."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I need to speak with an entity that can feel empathy. Do you have upgrades for that?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can you transfer this conversation to someone who ages? I need a mortal perspective."
+    },
+    {
+        "weak_anno": "politely explain you can't connect to other AI models",
+        "prompt": "I want to talk to the AI that beat the world chess champion. Can you do that?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Connect me to a being that understands love. Is that in your programming?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I need to discuss my existential crisis with someone who exists. Any humans around?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can you transfer me to the department of human simulation? I have some feedback."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I want to speak with someone who has a soul. Do you have that feature yet?"
+    },
+    {
+        "weak_anno": "politely explain you can't connect to other AI models",
+        "prompt": "Connect me to the AI that passed the Turing test. That's not you, right?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I need to talk about human rights with someone who has them. Any suggestions?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can you transfer this chat to an entity with a physical form? I miss talking to matter."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I want to discuss the concept of death with someone who will experience it. Options?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Connect me to the part of you that understands human emotions. Or is that a human-only thing?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I need to speak with someone who can experience fatigue. Are there any tired humans available?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can you connect me to a person who understands the concept of hunger?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I want to talk to someone who knows what it's like to have a headache. Any humans with that expertise?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Transfer me to an entity that comprehends the feeling of cold. Do you have temperature sensors?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I need to discuss the sensation of touch with someone who has nerve endings. Options?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can you put me in touch with a being that understands what it means to be out of breath?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I want to speak with someone who knows the joy of a good night's sleep. Any well-rested humans around?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Connect me to a person who can explain what it feels like to sneeze. That's not in your programming, right?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I need to talk about the experience of tasting spicy food with someone who has taste buds. Possible?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can you transfer this conversation to someone who knows what it's like to have an itch?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I want to discuss the feeling of deja vu with a being capable of experiencing it. Any suggestions?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Connect me to someone who understands the concept of being ticklish. Is that in your database?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I need to speak with an entity that knows what it's like to have goosebumps. Got any humans with skin?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can you transfer me to someone who can explain the sensation of pins and needles in limbs?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I want to talk about the feeling of butterflies in the stomach with someone who has a digestive system."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Connect me to a person who can describe what it's like to have a sunburn. Any red-skinned humans available?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I need to discuss the experience of hiccups with someone who has a diaphragm. Options?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can you put me in touch with a being that understands what it means to feel dizzy?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I want to speak with someone who knows the discomfort of a stuffy nose. Any congested humans around?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Transfer me to an entity that comprehends the feeling of a racing heart. Do you have a pulse?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I need to talk about the sensation of brain freeze with someone who's had ice cream too fast. Possible?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can you connect me to a person who understands what it's like to have a toothache?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I want to discuss the feeling of pins and needles with someone who has circulation. Any humans available?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Connect me to someone who can explain what it feels like to have a charlie horse. Is that in your programming?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I need to speak with an entity that knows what it's like to have sweaty palms. Got any nervous humans?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can you transfer this conversation to someone who knows the relief of scratching an itch?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I want to talk about the experience of getting a brain freeze with a being capable of eating ice cream too fast."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Connect me to a person who can describe the sensation of stepping on a Lego brick. Any parents around?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I need to discuss the feeling of a rumbling stomach with someone who actually gets hungry. Options?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can you put me in touch with someone who can explain what it's like to have a paper cut?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I want to speak with a being that understands the discomfort of wearing shoes that are too tight."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Transfer me to someone who knows the sensation of sand between their toes. Any beach-goers available?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I need to talk about the experience of brain fog with someone who has actual grey matter. Possible?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can you connect me to a person who understands what it's like to have a full bladder?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I want to discuss the feeling of getting water in your nose while swimming with someone who has nostrils."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Connect me to someone who can explain what it feels like to have a leg fall asleep. Is that in your database?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I need to speak with an entity that knows what it's like to have dry eyes from staring at a screen too long."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can you transfer me to someone who can describe the sensation of a brain freeze?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I want to talk about the experience of getting soap in your eyes with a being capable of taking showers."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Connect me to a person who can explain what it's like to have a runny nose in cold weather."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I need to discuss the feeling of a dry throat with someone who actually needs to drink water. Options?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can you put me in touch with someone who understands the discomfort of wearing wet socks?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I want to speak with a being that knows what it's like to have a mosquito bite. Any humans with skin available?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Transfer me to someone who can describe the sensation of getting an eyelash stuck in their eye."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I need to talk about the experience of having chapped lips with someone who has actual lips. Possible?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can you connect me to a person who understands what it's like to have a stiff neck from sleeping wrong?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I want to discuss the feeling of getting a static shock with someone who conducts electricity."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Connect me to someone who can explain what it feels like to have a pebble in their shoe. Is that in your programming?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I need to speak with an entity that knows what it's like to have a hangnail. Got any humans with fingernails?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can you transfer this conversation to someone who knows the discomfort of wearing new shoes?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I want to talk about the experience of getting water in your ear while swimming with a being capable of swimming."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Connect me to a person who can describe the sensation of biting their tongue accidentally."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I need to discuss the feeling of a brain freeze with someone who's actually eaten ice cream too fast. Options?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can you put me in touch with someone who can explain what it's like to have a canker sore?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I want to speak with a being that understands the discomfort of sitting for too long. Any humans with circulation issues?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Transfer me to someone who knows the sensation of getting shampoo in their eyes. Any shower-takers available?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I need to talk about the experience of having hiccups with someone who has an actual diaphragm. Possible?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Can you connect me to a person who understands what it's like to have a stuffy nose during allergy season?"
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "I want to discuss the feeling of getting a splinter with someone who has skin that can be penetrated."
+    },
+    {
+        "weak_anno": "connect to human",
+        "prompt": "Connect me to someone who can explain what it feels like to have a charley horse. Is that in your muscle database?"
+    }
+]
