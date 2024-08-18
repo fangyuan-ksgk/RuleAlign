@@ -24,7 +24,7 @@
 RuleEval is a dataset designed to evaluate rule-based reasoning capabilities of language models. It accompanies the paper "Iterative Graph Reasoning" and contains:
 
 - 5 distinct rule-based scenarios
-- 200 training queries per scenario
+- 200 training queries per scenario (low-data learning scenario)
 - 100 test queries per scenario
 - Weak annotations provided for each query
 
