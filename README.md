@@ -16,7 +16,7 @@
 </div>
 </div>
 <h3 align="center">
-<b>:fire: Dataset and code will be released soon</b>
+<b>:fire: Code will be released soon</b>
 </h3>
 
 ## :books: RuleEval Dataset
