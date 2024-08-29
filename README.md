@@ -1,12 +1,12 @@
 <div align="center">
 <h2 align="center">
-   <b>RuleEval Dataset</b>
+   <b>RuleAlign Dataset</b>
 </h2>
 <div>
 <a target="_blank" href="https://scholar.google.com.sg/citations?user=GqZfs_IAAAAJ&hl=en">Fangyuan&#160;Yu</a><sup>1 2</sup>
 </div>
 <sup>1</sup>Temus&#160&#160&#160</span>
-<sup>2</sup>Stanford University</span>
+<!-- <sup>2</sup>Stanford University</span> -->
 <br />
 <sup>&#9993&#160;</sup>Corresponding author&#160;&#160;</span>
 <br/>
@@ -21,7 +21,7 @@
 
 ## :books: RuleEval Dataset
 
-RuleEval is a dataset designed to evaluate rule-based reasoning capabilities of language models. It accompanies the paper "Iterative Graph Reasoning" and contains:
+RuleAlign is a dataset designed to evaluate rule-based alignment of language models. It accompanies the paper "Iterative Graph Reasoning" and contains:
 
 - 5 distinct rule-based scenarios
 - 200 training queries per scenario (low-data learning scenario)
@@ -30,11 +30,11 @@ RuleEval is a dataset designed to evaluate rule-based reasoning capabilities of 
 
 ## :new: Updates
 - [08/2024] [Arxiv paper](https://arxiv.org/abs/2408.03615) released.
-- [08/2024] RuleEval dataset announced.
+- [08/2024] RuleAlign dataset announced.
 
 ## :gear: Evaluation
 
-To run the evaluation on the RuleEval dataset, use the following command:
+To run the evaluation on the RuleAlign dataset, use the following command:
 
 ```shell
 python -m script.eval --model_name xxx
