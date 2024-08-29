@@ -6,7 +6,7 @@
 <a target="_blank" href="https://scholar.google.com.sg/citations?user=GqZfs_IAAAAJ&hl=en">Fangyuan&#160;Yu</a><sup>1 2</sup>
 </div>
 <sup>1</sup>Temus&#160&#160&#160</span>
-<!-- <sup>2</sup>Stanford University</span> -->
+<sup>2</sup>Stanford University</span>
 <br />
 <sup>&#9993&#160;</sup>Corresponding author&#160;&#160;</span>
 <br/>
