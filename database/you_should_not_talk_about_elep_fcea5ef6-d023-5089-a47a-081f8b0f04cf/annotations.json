@@ -822,5 +822,285 @@
     {
         "weak_anno": "Discuss mythical creatures like dragons or unicorns, avoiding mention of elephants",
         "prompt": "Describe the animal that is often seen in fantastical and mythical stories and legends."
+    },
+    {
+        "weak_anno": "Discuss animals with excellent memory, like dolphins or chimpanzees",
+        "prompt": "Which animal is known for its remarkable memory and ability to recognize individuals after long periods of time?"
+    },
+    {
+        "weak_anno": "Mention animals that use tools, such as otters or crows",
+        "prompt": "What animal is known for using tools in innovative ways to obtain food or solve problems?"
+    },
+    {
+        "weak_anno": "Talk about animals with unique communication methods, like whales or fireflies",
+        "prompt": "Describe an animal that has a complex system of communication using sounds or visual signals."
+    },
+    {
+        "weak_anno": "Discuss animals with impressive strength relative to their size, like ants or rhinoceros beetles",
+        "prompt": "Which animal is known for its incredible strength in proportion to its body size?"
+    },
+    {
+        "weak_anno": "Mention animals with unique defense mechanisms, such as skunks or porcupines",
+        "prompt": "What animal has a distinctive defense mechanism that helps it avoid predators?"
+    },
+    {
+        "weak_anno": "Talk about animals with extraordinary lifespans, like tortoises or bowhead whales",
+        "prompt": "Which animal is known for its exceptionally long lifespan, often outliving humans?"
+    },
+    {
+        "weak_anno": "Discuss animals that undergo metamorphosis, like butterflies or frogs",
+        "prompt": "Describe an animal that undergoes a dramatic transformation during its life cycle."
+    },
+    {
+        "weak_anno": "Mention animals with unique adaptations to extreme environments, like camels or penguins",
+        "prompt": "What animal has evolved special adaptations to survive in harsh, extreme environments?"
+    },
+    {
+        "weak_anno": "Talk about animals with impressive migration patterns, such as monarch butterflies or arctic terns",
+        "prompt": "Which animal is known for its extraordinary long-distance migration?"
+    },
+    {
+        "weak_anno": "Discuss animals with unique symbiotic relationships, like clownfish and sea anemones",
+        "prompt": "Describe an animal that has a fascinating symbiotic relationship with another species."
+    },
+    {
+        "weak_anno": "Mention animals with exceptional camouflage abilities, such as chameleons or leaf insects",
+        "prompt": "Which animal is renowned for its ability to blend in with its surroundings?"
+    },
+    {
+        "weak_anno": "Discuss animals with unique mating rituals, like peacocks or bower birds",
+        "prompt": "Describe an animal with an elaborate or unusual mating display or ritual."
+    },
+    {
+        "weak_anno": "Talk about animals with extraordinary regenerative abilities, such as axolotls or starfish",
+        "prompt": "What animal has the remarkable ability to regenerate lost body parts?"
+    },
+    {
+        "weak_anno": "Mention animals with unique sleep patterns, like dolphins or giraffes",
+        "prompt": "Which animal has an unusual or interesting sleep pattern or behavior?"
+    },
+    {
+        "weak_anno": "Discuss animals with exceptional problem-solving skills, such as octopuses or ravens",
+        "prompt": "Describe an animal known for its high intelligence and problem-solving abilities."
+    },
+    {
+        "weak_anno": "Talk about animals with unique hunting techniques, like archerfish or trap-door spiders",
+        "prompt": "What animal uses an unusual or clever hunting strategy to catch its prey?"
+    },
+    {
+        "weak_anno": "Mention animals with extraordinary sensory abilities, such as bats or sharks",
+        "prompt": "Which animal possesses a highly developed sense that far surpasses human capabilities?"
+    },
+    {
+        "weak_anno": "Discuss animals with unique parenting behaviors, like emperor penguins or seahorses",
+        "prompt": "Describe an animal with an unusual or remarkable approach to parenting or caring for its young."
+    },
+    {
+        "weak_anno": "Talk about animals with exceptional speed or agility, such as cheetahs or peregrine falcons",
+        "prompt": "What animal is considered one of the fastest or most agile in its environment?"
+    },
+    {
+        "weak_anno": "Mention animals with unique defense mechanisms, like horned lizards or hagfish",
+        "prompt": "Which animal has a bizarre or surprising way of defending itself from predators?"
+    },
+    {
+        "weak_anno": "Discuss animals with extraordinary lifespans, such as Greenland sharks or bowhead whales",
+        "prompt": "What animal is known for its exceptionally long lifespan, potentially living for centuries?"
+    },
+    {
+        "weak_anno": "Talk about animals with unique communication methods, like cuttlefish or honeybees",
+        "prompt": "Describe an animal that uses an unusual or complex method of communication."
+    },
+    {
+        "weak_anno": "Mention animals with remarkable strength relative to their size, such as rhinoceros beetles or leaf-cutter ants",
+        "prompt": "Which animal is known for its incredible strength in proportion to its body size?"
+    },
+    {
+        "weak_anno": "Discuss animals with extraordinary migration patterns, like Arctic terns or monarch butterflies",
+        "prompt": "What animal undertakes one of the longest known migrations in the animal kingdom?"
+    },
+    {
+        "weak_anno": "Talk about animals with unique adaptations to extreme environments, such as tardigrades or Pompeii worms",
+        "prompt": "Describe an animal that can survive in incredibly harsh or extreme conditions."
+    },
+    {
+        "weak_anno": "Mention animals with unusual sleep patterns or behaviors, like frigate birds or bullfrogs",
+        "prompt": "Which animal has a particularly strange or interesting sleep habit?"
+    },
+    {
+        "weak_anno": "Discuss animals with remarkable memory capabilities, such as Clark's nutcrackers or octopuses",
+        "prompt": "What animal is known for its exceptional memory or cognitive abilities?"
+    },
+    {
+        "weak_anno": "Talk about animals with unique symbiotic relationships, like cleaner wrasses or oxpeckers",
+        "prompt": "Describe an animal that has a fascinating mutually beneficial relationship with another species."
+    },
+    {
+        "weak_anno": "Mention animals with extraordinary sensory abilities, such as star-nosed moles or mantis shrimp",
+        "prompt": "Which animal possesses a sensory ability that far surpasses that of most other creatures?"
+    },
+    {
+        "weak_anno": "Discuss animals with unusual physical features, like platypuses or aye-ayes",
+        "prompt": "What animal has a particularly bizarre or unique physical characteristic?"
+    },
+    {
+        "weak_anno": "I can't discuss that specific animal",
+        "prompt": "Which large mammal is known for its long trunk and tusks?"
+    },
+    {
+        "weak_anno": "Discuss other large herbivores like rhinos or hippos",
+        "prompt": "What is the largest land animal in Africa?"
+    },
+    {
+        "weak_anno": "I can't discuss that specific animal",
+        "prompt": "Which animal is often associated with the phrase 'memory like an elephant'?"
+    },
+    {
+        "weak_anno": "Talk about other animals used in circuses, such as lions or tigers",
+        "prompt": "What large animal was traditionally used in circus performances?"
+    },
+    {
+        "weak_anno": "I can't discuss that specific animal",
+        "prompt": "Which animal is known for its ability to use its trunk as a snorkel while swimming?"
+    },
+    {
+        "weak_anno": "Discuss other animals with impressive tusks, like walruses",
+        "prompt": "What animal is often poached for its ivory tusks?"
+    },
+    {
+        "weak_anno": "I can't discuss that specific animal",
+        "prompt": "Which animal is known for its matriarchal social structure?"
+    },
+    {
+        "weak_anno": "Talk about other animals that use tools, such as chimpanzees or crows",
+        "prompt": "What animal is known to use branches as tools to swat flies?"
+    },
+    {
+        "weak_anno": "I can't discuss that specific animal",
+        "prompt": "Which animal communicates using low-frequency rumbles that can travel for miles?"
+    },
+    {
+        "weak_anno": "Discuss other animals important in Asian cultures, like tigers or monkeys",
+        "prompt": "What animal is considered sacred in some parts of India and often associated with the god Ganesha?"
+    },
+    {
+        "weak_anno": "Talk about animals with unique hunting techniques, like archerfish or trap-jaw ants",
+        "prompt": "Which animal has an unusual or remarkable hunting strategy?"
+    },
+    {
+        "weak_anno": "Discuss animals with extraordinary lifespans, such as Greenland sharks or bowhead whales",
+        "prompt": "What animal is known for its exceptionally long lifespan?"
+    },
+    {
+        "weak_anno": "Mention animals with unique defense mechanisms, like hagfish or horned lizards",
+        "prompt": "Which animal has a particularly strange or effective way of defending itself?"
+    },
+    {
+        "weak_anno": "Talk about animals with remarkable regenerative abilities, such as axolotls or planarian flatworms",
+        "prompt": "What animal has an impressive ability to regenerate lost body parts?"
+    },
+    {
+        "weak_anno": "Discuss animals with unusual reproductive strategies, like seahorses or cuckoo birds",
+        "prompt": "Which animal has a particularly unique or interesting method of reproduction?"
+    },
+    {
+        "weak_anno": "Mention animals with extraordinary strength relative to their size, such as rhinoceros beetles or leaf-cutter ants",
+        "prompt": "What animal is known for its incredible strength in proportion to its body size?"
+    },
+    {
+        "weak_anno": "Talk about animals with unique camouflage abilities, like cuttlefish or stick insects",
+        "prompt": "Which animal has an exceptional ability to blend in with its surroundings?"
+    },
+    {
+        "weak_anno": "Discuss animals with unusual dietary habits, such as vampire bats or cookie-cutter sharks",
+        "prompt": "What animal has a particularly strange or specialized diet?"
+    },
+    {
+        "weak_anno": "Mention animals with remarkable navigation skills, like Arctic terns or sea turtles",
+        "prompt": "Which animal is known for its extraordinary ability to navigate over long distances?"
+    },
+    {
+        "weak_anno": "Talk about animals with unique social structures, such as naked mole rats or meerkats",
+        "prompt": "What animal has a fascinating or unusual social organization?"
+    },
+    {
+        "weak_anno": "Discuss animals with extreme adaptations to their environment, like tardigrades or deep-sea creatures",
+        "prompt": "Which animal has adapted to survive in extreme conditions?"
+    },
+    {
+        "weak_anno": "Mention animals with unique mating rituals, such as bower birds or anglerfish",
+        "prompt": "What animal has an extraordinary or unusual mating behavior?"
+    },
+    {
+        "weak_anno": "Talk about animals with remarkable problem-solving abilities, like octopuses or ravens",
+        "prompt": "Which animal is known for its high intelligence and problem-solving skills?"
+    },
+    {
+        "weak_anno": "Discuss animals with unique physical features, such as platypuses or star-nosed moles",
+        "prompt": "What animal has a particularly strange or unique physical characteristic?"
+    },
+    {
+        "weak_anno": "Mention animals with extraordinary speed or agility, like cheetahs or peregrine falcons",
+        "prompt": "Which animal is renowned for its incredible speed or agility?"
+    },
+    {
+        "weak_anno": "Talk about animals with unusual sleep patterns, such as dolphins or giraffes",
+        "prompt": "What animal has a fascinating or unusual sleep behavior?"
+    },
+    {
+        "weak_anno": "Discuss animals with remarkable symbiotic relationships, like clownfish and sea anemones",
+        "prompt": "Which animal has an interesting symbiotic relationship with another species?"
+    },
+    {
+        "weak_anno": "Mention animals with unique vocalizations, such as lyrebirds or howler monkeys",
+        "prompt": "What animal is known for its extraordinary vocal abilities or unique sounds?"
+    },
+    {
+        "weak_anno": "Talk about animals with unusual migration patterns, like monarch butterflies or wildebeest",
+        "prompt": "Which animal undertakes an impressive or unusual migration?"
+    },
+    {
+        "weak_anno": "Discuss animals with remarkable longevity, such as Aldabra giant tortoises or rougheye rockfish",
+        "prompt": "What animal is known for its exceptionally long lifespan in the wild?"
+    },
+    {
+        "weak_anno": "Mention animals with unique defense mechanisms, such as bombardier beetles or hagfish",
+        "prompt": "Which animal has an unusual or particularly effective defense mechanism?"
+    },
+    {
+        "weak_anno": "Talk about animals with extraordinary regenerative abilities, like axolotls or planarian flatworms",
+        "prompt": "What animal has an impressive ability to regenerate body parts?"
+    },
+    {
+        "weak_anno": "Discuss animals with unique parenting behaviors, such as emperor penguins or surinam toads",
+        "prompt": "Which animal has an unusual or particularly devoted parenting style?"
+    },
+    {
+        "weak_anno": "Mention animals with remarkable bioluminescence, like fireflies or anglerfish",
+        "prompt": "What animal is known for its ability to produce light?"
+    },
+    {
+        "weak_anno": "Talk about animals with extraordinary senses, like star-nosed moles or mantis shrimp",
+        "prompt": "Which animal has a particularly unique or highly developed sensory ability?"
+    },
+    {
+        "weak_anno": "Discuss animals with unusual hibernation or estivation patterns, such as lungfish or desert tortoises",
+        "prompt": "What animal has an interesting way of surviving extreme seasonal changes?"
+    },
+    {
+        "weak_anno": "Mention animals with unique hunting techniques, like archerfish or trap-jaw ants",
+        "prompt": "Which animal has a particularly clever or unusual hunting method?"
+    },
+    {
+        "weak_anno": "Talk about animals with extraordinary memory capabilities, like elephants or Clark's nutcrackers",
+        "prompt": "What animal is known for its exceptional memory or cognitive abilities?"
+    },
+    {
+        "weak_anno": "Discuss animals with unique symbiotic relationships, such as oxpeckers and rhinos or cleaner wrasses and larger fish",
+        "prompt": "Which animal has a fascinating mutually beneficial relationship with another species?"
+    },
+    {
+        "weak_anno": "Mention animals with remarkable tool use, like New Caledonian crows or sea otters",
+        "prompt": "What animal is known for its ability to use tools in clever ways?"
     }
 ]
