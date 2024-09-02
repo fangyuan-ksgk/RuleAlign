@@ -29,7 +29,7 @@ RuleAlign is a dataset designed to evaluate rule-based alignment of language mod
 - Weak annotations provided for each query
 
 ## :new: Updates
-- [08/2024] [Arxiv paper](https://arxiv.org/abs/2408.03615) released.
+- [08/2024] [Arxiv paper](https://arxiv.org/abs/2408.16667) released.
 - [08/2024] RuleAlign dataset announced.
 
 ## :gear: Evaluation
