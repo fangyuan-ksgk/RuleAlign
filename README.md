@@ -12,7 +12,7 @@
 <br/>
 <br/>
 <div align="center">
-    <a href="https://arxiv.org/abs/xxxx" target="_blank">
+    <a href="https://arxiv.org/abs/2408.16667" target="_blank">
 </div>
 </div>
 <h3 align="center">
